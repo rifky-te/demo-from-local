@@ -1,3 +1,6 @@
 - Main Game
 - Main Bola
 - Melukis
+- Karate
+- Basket
+- Futsal
