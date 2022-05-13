@@ -4,3 +4,4 @@
 - Karate
 - Basket
 - Futsal
+- Bulutangkis
