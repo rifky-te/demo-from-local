@@ -5,3 +5,4 @@
 - Basket
 - Futsal
 - Bulutangkis
+- Renang
